@@ -17,7 +17,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d build",
+    "homepage" : "https://puneet801.github.io/4BIDDEN/"
   },
   "eslintConfig": {
     "extends": [
