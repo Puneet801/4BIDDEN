@@ -45,7 +45,7 @@ function App() {
             src="https://media1.tenor.com/m/al4a1pG1f8YAAAAC/jump-bear.gif"
             alt="bear with heart"
           />
-          <div className="text">Will you be my valentine, Vanshika 🌹?</div>
+          <div className="text">Will you be my valentine🌹?</div>
           <div className="both-Button">
             <button
               className="yesButton"
